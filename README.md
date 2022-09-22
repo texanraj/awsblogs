@@ -1,2 +1,0 @@
-# awsblogs
-AWs Blogs
